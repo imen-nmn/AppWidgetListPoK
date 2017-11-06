@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/build/intermediates/res/merged/debug/drawable-hdpi/widget_preview.png",
+        "source": "/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/src/main/res/drawable-hdpi/widget_preview.png"
+    }
+]

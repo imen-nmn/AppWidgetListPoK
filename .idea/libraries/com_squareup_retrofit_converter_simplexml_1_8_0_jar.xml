@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.squareup.retrofit:converter-simplexml:1.8.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-simplexml/1.8.0/f05399eb8bc54ce115292dd968d61ed28ffd1ee0/converter-simplexml-1.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-simplexml/1.8.0/1c6ca581db5da9a93e3a1eab145baf44bdf9169e/converter-simplexml-1.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

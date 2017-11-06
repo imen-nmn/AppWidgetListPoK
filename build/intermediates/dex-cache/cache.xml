@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_7675ea973ec9eb0f43c3b616ad5684a432b556d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0_535d3f0982c829a4064c138d803bde2b00b2ce0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mobilepowered/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_8cca5973effaecc71b7f0b70b975c15ca403cc8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/build/intermediates/pre-dexed/debug/glide-3.7.0_ac342f17260710fcdf4b2d129687098a64b8d47c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/3.2.0/e70040568b2929b8e5869ad1ffca8e4386dc53bc/greendao-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e70040568b2929b8e5869ad1ffca8e4386dc53bc">
+        <dex dex="/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/build/intermediates/pre-dexed/debug/greendao-3.2.0_e2c1deb905072cda4be770e86176fe807f1b3930.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-simplexml/1.8.0/f05399eb8bc54ce115292dd968d61ed28ffd1ee0/converter-simplexml-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f05399eb8bc54ce115292dd968d61ed28ffd1ee0">
+        <dex dex="/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/build/intermediates/pre-dexed/debug/converter-simplexml-1.8.0_a02cb7beffc8151578a2db319b01518c50919597.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.simpleframework/simple-xml/2.7.1/dd91fb744c2ff921407475cb29a1e3fee397d411/simple-xml-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd91fb744c2ff921407475cb29a1e3fee397d411">
+        <dex dex="/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/build/intermediates/pre-dexed/debug/simple-xml-2.7.1_33f4b5fc1869344a952fc21840dc0ea29f1580a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_65042e5e3051ed437822ed41036178c5062d68b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_3b8c94aa1ccaceea76dcd9bd9747f306817819c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/build/intermediates/pre-dexed/debug/gson-2.3.1_db347212bcda2648244d4b24078ad368b698503a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-api/3.2.0/c6d610abe1d75d758431c9234917a349abc0a0ac/greendao-api-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6d610abe1d75d758431c9234917a349abc0a0ac">
+        <dex dex="/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/build/intermediates/pre-dexed/debug/greendao-api-3.2.0_4a9cea5680f86522cf84fade56aeaf5f5813ec88.jar" />
+    </item>
+
+</items>

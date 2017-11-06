@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/build/intermediates/res/merged/debug/drawable/selector_item.xml",
+        "source": "/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/src/main/res/drawable/selector_item.xml"
+    },
+    {
+        "merged": "/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/build/intermediates/res/merged/debug/drawable/list_selector_default.xml",
+        "source": "/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/src/main/res/drawable/list_selector_default.xml"
+    },
+    {
+        "merged": "/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/build/intermediates/res/merged/debug/drawable/list_selector_pressed.xml",
+        "source": "/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/src/main/res/drawable/list_selector_pressed.xml"
+    }
+]

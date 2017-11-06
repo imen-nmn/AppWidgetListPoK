@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/item_height"
+    android:orientation="horizontal"
+    android:id="@+id/holder_item"
+    android:background="@drawable/selector_item" >
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="57dp"
+        android:layout_height="57dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="8dip"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@+id/heading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_toRightOf="@id/imageView"
+        android:singleLine="true"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:padding="5dp"
+        android:text="Heading"
+        android:textColor="@color/android:black"/>
+
+    <TextView
+        android:id="@+id/content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/heading"
+        android:layout_toRightOf="@id/imageView"
+        android:textSize="14sp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:textColor="@color/android:black"
+        android:text="Content"
+        android:layout_toLeftOf="@+id/imageView" />
+
+    <TextView
+        android:id="@+id/late_error"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/imageView"
+        android:textSize="12dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="5dp"
+        android:textColor="#F00"
+        android:text="A message of error is displayed here"
+        android:layout_toLeftOf="@+id/imageView" />
+
+</RelativeLayout>
