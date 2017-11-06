@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Nov 06 17:51:10 CET 2017
+#Mon Nov 06 18:19:38 CET 2017
 8.set=ANDROID_RESOURCE
 1.base=/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/build/intermediates/res/resources-debug.ap_
 1.file=/home/mobilepowered/Téléchargements/POKS/AppWidgetListPoK/app/build/intermediates/res/resources-debug.ap_/res/layout/list_row.xml

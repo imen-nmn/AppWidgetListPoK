@@ -9,7 +9,6 @@ import com.imen_nmn.widgetpok.rest.xmlResponse.SearchWeatherContent;
 
 import retrofit.Callback;
 import retrofit.RestAdapter;
-import retrofit.converter.GsonConverter;
 import retrofit.converter.SimpleXMLConverter;
 import retrofit.http.POST;
 import retrofit.http.Query;
@@ -21,7 +20,7 @@ import retrofit.http.Query;
 public class RetrofitAPIManager {
 
     static final String BASE_LOCATION_URL="http://api.worldweatheronline.com/premium/v1" ;
-    static final String KEY_LOCATION_API="b8fbf26249a74bb0bf5150645171703" ;
+    static final String KEY_LOCATION_API="174d22f18bb34c89a6b171905170611" ;
 
     static final String query ="36.8950571,10.185602";
 
